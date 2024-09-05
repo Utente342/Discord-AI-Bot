@@ -1,4 +1,4 @@
-# Discord-AI-Bot
+# Bot discord Recycling AI
 Questo bot discord é stato programmatop da Utente342, giovane programmatore in Python.
 Utilizza l'API dell'AI GEMINI, di Google, per far fare una consersazione all'utente con il bot (utilizzando il comando /ask)
 Con il comando /riciclo fai partire un breve quiz sul riciclo. 
